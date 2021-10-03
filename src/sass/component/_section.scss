@@ -1,0 +1,16 @@
+.section{
+    padding: 2rem 15%;
+    min-height: 77vh;
+
+    @include tablet{
+        padding: 2rem;
+    }
+
+    &__title{
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-bottom: 2rem;
+    }
+}

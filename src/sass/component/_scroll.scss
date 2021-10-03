@@ -1,0 +1,18 @@
+.scroll-to-top{
+    position: fixed;
+    cursor: pointer;
+    background-color: $green;
+    padding: 0.75rem 1rem;
+    border-radius: 0.25rem;
+    top: -100%;
+    right: 3rem;
+    transition: all 1s;
+
+    @include tablet{
+        right: 1rem;
+    }
+
+    &.active{
+        top: calc(100% - 8rem);
+    }
+}
