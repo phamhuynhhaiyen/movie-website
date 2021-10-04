@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-website/static/css/main.5f539bd8.chunk.css",
+    "main.js": "/movie-website/static/js/main.502ff650.chunk.js",
+    "main.js.map": "/movie-website/static/js/main.502ff650.chunk.js.map",
+    "runtime-main.js": "/movie-website/static/js/runtime-main.70893307.js",
+    "runtime-main.js.map": "/movie-website/static/js/runtime-main.70893307.js.map",
+    "static/js/2.9b82067b.chunk.js": "/movie-website/static/js/2.9b82067b.chunk.js",
+    "static/js/2.9b82067b.chunk.js.map": "/movie-website/static/js/2.9b82067b.chunk.js.map",
+    "static/js/3.fce73cbe.chunk.js": "/movie-website/static/js/3.fce73cbe.chunk.js",
+    "static/js/3.fce73cbe.chunk.js.map": "/movie-website/static/js/3.fce73cbe.chunk.js.map",
+    "index.html": "/movie-website/index.html",
+    "static/css/main.5f539bd8.chunk.css.map": "/movie-website/static/css/main.5f539bd8.chunk.css.map",
+    "static/js/2.9b82067b.chunk.js.LICENSE.txt": "/movie-website/static/js/2.9b82067b.chunk.js.LICENSE.txt",
+    "static/media/Josee.jpg": "/movie-website/static/media/Josee.96bbf335.jpg",
+    "static/media/img-01.jpg": "/movie-website/static/media/img-01.1009d234.jpg",
+    "static/media/img-3.jpg": "/movie-website/static/media/img-3.07e03eb6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70893307.js",
+    "static/js/2.9b82067b.chunk.js",
+    "static/css/main.5f539bd8.chunk.css",
+    "static/js/main.502ff650.chunk.js"
+  ]
+}
