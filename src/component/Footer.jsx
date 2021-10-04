@@ -11,10 +11,10 @@ const Footer = () => {
                 <span>All rights reserved © {new Date().getFullYear()} </span>
             </div>
             <div className="footer__icon">
-                <Link to="//www.instagram.com/ph.haiyan/">
+                <Link to="/">
                     <i className="fab fa-instagram"></i>
                 </Link>
-                <Link to="//www.facebook.com/phamhuynhhaiyen/">
+                <Link to="/">
                     <i className="fab fa-facebook"></i>
                 </Link>
                 <Link to="/">
